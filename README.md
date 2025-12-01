@@ -116,8 +116,7 @@
 ### 2. Клонування репозиторію
 
 ```bash
-git clone https://github.com/your-user/project-name.git
-cd project-name
+git clone https://github.com/zakhar-boiko/Diploma-Sources.git
 ```
 
 ### 3. Встановлення залежностей
