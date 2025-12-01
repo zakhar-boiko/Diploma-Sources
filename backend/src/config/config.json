@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "zahar202",
+    "database": "diploma",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "zahar202",
+    "database": "diploma",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "zahar202",
+    "database": "diploma",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
